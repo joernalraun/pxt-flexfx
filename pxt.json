@@ -19,10 +19,12 @@
         "targetId": "calliopemini"
     },
     "supportedTargets": [
-        "microbit"
+        "calliopemini"
     ],
     "preferredEditor": "tsprj",
+    "compileServiceVariant": "minicodal",
     "disablesVariants": [
-        "mbdal"
+        "minidal",
+        "minidalusb"
     ]
 }
