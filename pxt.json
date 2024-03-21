@@ -1,7 +1,7 @@
 {
     "name": "pxt-flexfx",
     "version": "2.2.7",
-    "description": "micro:bit (V2) extension for flexible re-usable sound effects",
+    "description": "Calliope mini 3 extension for flexible re-usable sound effects",
     "license": "MIT",
     "dependencies": {
         "core": "*",
