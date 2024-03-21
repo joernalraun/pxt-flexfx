@@ -21,6 +21,11 @@
     "supportedTargets": [
         "microbit"
     ],
+    "compileServiceVariant": "minicodal",
+    "disablesVariants": [
+        "minidal",
+        "minidalusb"
+    ],
     "preferredEditor": "tsprj",
     "disablesVariants": [
         "mbdal"
