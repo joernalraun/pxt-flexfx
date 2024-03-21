@@ -4,7 +4,8 @@
     "description": "micro:bit (V2) extension for flexible re-usable sound effects",
     "license": "MIT",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "core-mini-codal": "*"
     },
     "files": [
         "flexFX.ts",
