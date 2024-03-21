@@ -5,7 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "core-mini-codal": "*"
+        "v3": "*"
     },
     "files": [
         "flexFX.ts",
@@ -21,10 +21,5 @@
     "supportedTargets": [
         "calliopemini"
     ],
-    "preferredEditor": "tsprj",
-    "compileServiceVariant": "minicodal",
-    "disablesVariants": [
-        "minidal",
-        "minidalusb"
-    ]
+    "preferredEditor": "tsprj"
 }
